@@ -1,0 +1,7 @@
+#free mem 
+df -h
+
+#check if port's in use
+lsof -i:<port>
+
+
